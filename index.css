@@ -1,0 +1,15 @@
+button{
+    background-color: aquamarine;
+    color: white;
+    padding: 10px;
+    text-align:right;
+    font-size: larger;
+    font-family: Arial;
+    border: none;
+    border-radius:13px;
+}
+
+img{
+    width: 400px;
+    height: 400px;
+}
